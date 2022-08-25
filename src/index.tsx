@@ -8,7 +8,7 @@ import Counter from './components/useStateTest';
 ReactDOM.render(
   <React.StrictMode>
     {/* App から　Helloに*/}
-    <Counter />
+    
   </React.StrictMode>,
   document.getElementById('root') as HTMLElement
 );
